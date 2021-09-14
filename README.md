@@ -1,3 +1,4 @@
-# Projeto em Angular 
+# Projeto em Angular + Json-server
 ### Cadastro de clientes. 
-Curso crcode.
+Curso Coder
+https://www.cod3r.com.br/
